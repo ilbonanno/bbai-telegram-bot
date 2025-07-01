@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+yfinance
+feedparser
+python-multipart
